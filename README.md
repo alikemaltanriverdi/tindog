@@ -1,5 +1,5 @@
 # tindog
 TinDog
 
-- Using JQuery and Bootstrap 3
+- Bootstrap 3
 
